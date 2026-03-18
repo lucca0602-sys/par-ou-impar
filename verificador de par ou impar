@@ -1,0 +1,6 @@
+a = int ((input("digite um numero: ")))
+if a%2 == 0:
+    print("o numero digitado foi par")
+
+else:
+    print("o numero digitado foi impar")
